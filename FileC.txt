@@ -1,2 +1,3 @@
 this is fileC
 this is new changes first
+This is sqash merge
